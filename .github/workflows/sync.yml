@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # Runs automatically every day at midnight
   workflow_dispatch: # Allows you to trigger it manually via a button click
 
+permissions:
+  contents: write # This gives the bot permission to push files back to your repo!
+
 jobs:
   build:
     runs-on: ubuntu-latest
