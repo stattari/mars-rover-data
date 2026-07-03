@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "MSL_Traverse_Path_tosol4939",
+  "name": "MSL_Traverse_Path_tosol4942",
   "features": [
     {
       "type": "Feature",
@@ -147704,6 +147704,32 @@
             137.38319498,
             -4.819176899,
             -3539.1107657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Length": 10.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.38319498,
+            -4.819176899,
+            -3539.1107657
+          ],
+          [
+            137.38322158,
+            -4.8192263862,
+            -3538.9192991
+          ],
+          [
+            137.38319209,
+            -4.8193471909,
+            -3537.9794922
           ]
         ]
       }
