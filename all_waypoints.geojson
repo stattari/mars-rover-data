@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "MSL_waypoints_sol4942",
+  "name": "MSL_waypoints_sol4946",
   "features": [
     {
       "type": "Feature",
@@ -43487,6 +43487,38 @@
           137.38319209,
           -4.81934719,
           -3537.958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "123_246",
+        "site": 123,
+        "drive": 246,
+        "sol": 4946,
+        "easting": 8143352.404,
+        "northing": -285681.519,
+        "elev_geoid": -3535.681,
+        "lon": 137.38328063,
+        "lat": -4.81962002,
+        "roll": -1.73,
+        "pitch": 6.53,
+        "yaw": 151.63,
+        "yaw_rad": 2.64638,
+        "tilt": 6.75,
+        "dist_m": 17.57,
+        "dist_total_m": 37596.23,
+        "dist_km": 37.28,
+        "dist_mi": 23.17,
+        "drive_type": "final"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.38328063,
+          -4.81962002,
+          -3535.681
         ]
       }
     }
