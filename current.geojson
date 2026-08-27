@@ -5,32 +5,32 @@
     {
       "type": "Feature",
       "properties": {
-        "RMC": "124_1482",
+        "RMC": "124_1872",
         "site": 124,
-        "drive": 1482,
-        "sol": 4994,
-        "easting": 8143556.287,
-        "northing": -285882.552,
-        "elev_geoid": -3501.818,
-        "lon": 137.3867203,
-        "lat": -4.82301157,
-        "roll": 2.39,
-        "pitch": 11.91,
-        "yaw": 178.54,
-        "yaw_rad": 3.11606,
-        "tilt": 12.14,
-        "dist_m": 31.97,
-        "dist_total_m": 38120.0,
-        "dist_km": 37.8,
-        "dist_mi": 23.49,
+        "drive": 1872,
+        "sol": 4996,
+        "easting": 8143554.871,
+        "northing": -285917.27,
+        "elev_geoid": -3498.715,
+        "lon": 137.3866964,
+        "lat": -4.82359728,
+        "roll": -2.63,
+        "pitch": 10.87,
+        "yaw": 164.67,
+        "yaw_rad": 2.87404,
+        "tilt": 11.18,
+        "dist_m": 47.35,
+        "dist_total_m": 38167.34,
+        "dist_km": 37.85,
+        "dist_mi": 23.52,
         "drive_type": "final"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          137.3867203,
-          -4.82301157,
-          -3501.818
+          137.3866964,
+          -4.82359728,
+          -3498.715
         ]
       }
     }
