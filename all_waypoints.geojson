@@ -44417,6 +44417,38 @@
           -3473.684
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "125_2490",
+        "site": 125,
+        "drive": 2490,
+        "sol": 5073,
+        "easting": 8143684.66,
+        "northing": -286061.072,
+        "elev_geoid": -3472.085,
+        "lon": 137.388886,
+        "lat": -4.82602331,
+        "roll": 3.96,
+        "pitch": 11.81,
+        "yaw": -171.6,
+        "yaw_rad": -2.99501,
+        "tilt": 12.45,
+        "dist_m": 27.91,
+        "dist_total_m": 38638.02,
+        "dist_km": 38.32,
+        "dist_mi": 23.81,
+        "drive_type": "final"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.388886,
+          -4.82602331,
+          -3472.085
+        ]
+      }
     }
   ]
 }
